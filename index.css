@@ -83,7 +83,7 @@ body {
 
 @media(max-width: 1340px) {
     .row {
-        max-width: 1100px;
+        max-width: 1200px;
     }
 }
 
@@ -568,7 +568,7 @@ body:not(.user-is-tabbing) a:focus {
 /* --------------------------------------- */
 
 .contact__info {
-    max-width: 80%;
+    max-width: 100%;
 /*     max-width: var(--container-medium-width); */
 }
 
