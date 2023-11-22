@@ -592,6 +592,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .footer__social-link-item:not(:last-of-type) {
     margin-right: var(--gutter-small);
+    margin-bottom: 4px;      /*---------------------*/
 }
 
 .footer__social-image {
