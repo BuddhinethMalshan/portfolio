@@ -568,8 +568,8 @@ body:not(.user-is-tabbing) a:focus {
 /* --------------------------------------- */
 
 .contact__info {
-    max-width: 100%;
-/*     max-width: var(--container-medium-width); */
+/*     max-width: 100%; */
+    max-width: var(--container-medium-width);
 }
 
 /* --------------------------------------- */
