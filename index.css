@@ -551,7 +551,7 @@ body:not(.user-is-tabbing) a:focus {
 
 .about__photo-container {
     margin-bottom: var(--gutter-normal);
-    position: absolute; top: 0; left: 0; width: 90%; height: auto;        /*..................*/
+    
 }
 
 @media(min-width: 901px) {
@@ -563,7 +563,7 @@ body:not(.user-is-tabbing) a:focus {
     .about__photo-container {
         flex: 1;
         margin: 0 var(--gutter-huge) 0 0;
-        width: 55%;        /*..................*/
+        position: absolute; top: 0; left: 0; width: 90%; height: auto;        /*..................*/
     }
 }
 
